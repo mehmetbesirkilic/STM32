@@ -1,6 +1,4 @@
 # STM32
-STM32
-
 TASARIMDA yap ve kendini geliştir serisi projelerimizde #4
 
 2 katmanlı Altium ile tasarlandı
