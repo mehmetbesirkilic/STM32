@@ -1,4 +1,5 @@
-# STM32
+# STM32F103C8T6 Gelişim kartı
+
 TASARIMDA yap ve kendini geliştir serisi projelerimizde #4
 
 2 katmanlı Altium ile tasarlandı
